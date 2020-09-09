@@ -1,2 +1,6 @@
-# IASC-1P04
-GitHub repository for IASC 1P04 course, Fall 2020
+# IASC-1P04 | Jenny Lim
+
+For the Twine games I'm making for Brock University's IASC-1P04
+
+## Playtest
+Playtest my game [here]
