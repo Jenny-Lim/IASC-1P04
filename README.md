@@ -1,6 +1,9 @@
-# IASC-1P04 | Jenny Lim
+# IASC-1P04 | Jenny
 
-For the Twine games I'm making for Brock University's IASC-1P04
+For the Twine games I'm making for IASC-1P04
 
 ## Playtest
-Playtest my game [here]
+playtest my game [here!!!]
+
+## Prototype
+my game's prototype can be played [here!!!]
