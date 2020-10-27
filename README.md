@@ -1,4 +1,4 @@
-# IASC-1P04 | Jenny
+# Jenny
 
 For the Twine games I'm making for IASC-1P04
 
