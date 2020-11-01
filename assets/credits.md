@@ -12,4 +12,4 @@ by KAMARIN
 
 2018 - Licensed under
 Creative Commons
-Attribution
+Attribution (3.0)
