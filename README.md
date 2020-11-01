@@ -1,6 +1,6 @@
 # Jenny
 
-For the Twine games I'm making for IASC-1P04.
+For the Twine games I'm making.
 
 ## Playtest
 Playtest my game [not here!]
