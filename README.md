@@ -3,7 +3,7 @@
 For the Twine games I'm making.
 
 ## Playtest
-Playtest my game [not here!]
+Playtest my game [here!](playtest/playtest)
 
 ## Prototype
-My game's prototype can be played <a href="https://jenny-lim.github.io/IASC-1P04/prototype/Nicos_Happy_Day.html">here!</a>
+My game's prototype can be played [here!](prototype/Nicos_Happy_Day.html)
