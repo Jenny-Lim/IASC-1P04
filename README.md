@@ -1,6 +1,6 @@
 # Jenny
 
-For the Twine games I'm making.
+Hub for the Twine games I'm making.
 
 ## Playtest
 Playtest my game [here!](https://jenny-lim.github.io/IASC-1P04/playtest/playtest)
