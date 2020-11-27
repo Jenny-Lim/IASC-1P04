@@ -1,5 +1,4 @@
-# Jenny
-## Fall 2020
+# Jenny | Fall 2020
 
 ## About my game
 
