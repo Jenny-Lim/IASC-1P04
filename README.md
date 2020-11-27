@@ -1,9 +1,7 @@
 # Jenny
 ## Fall 2020
 
-Hub for the Twine games I'm making.
-
-## About the game
+## About my game
 
 Nothing yet!!!!
 
