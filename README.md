@@ -3,7 +3,7 @@
 
 Hub for the Twine games I'm making.
 
-### About the game
+## About the game
 
 Nothing yet!!!!
 
