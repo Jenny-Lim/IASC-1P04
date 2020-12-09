@@ -4,7 +4,7 @@
 Nothing yet!!!!
 
 ## Play now
-Play my game [here!](https://jenny-lim.github.io/IASC-1P04/final_build/)
+Play my game [here!](https://jenny-lim.github.io/IASC-1P04/final_build/Nicos_Happy_Day.html)
 
 ### Playtest
 Playtest my game [here!](https://jenny-lim.github.io/IASC-1P04/playtest/playtest)
