@@ -1,4 +1,4 @@
-# Jenny | Fall 2020
+# Nico's Happy Day | Fall 2020
 
 ## About my game
 Nico's Happy Day is a short game about our protagonist Nico and their happiness. Inspired by the tedium of my own daily life, NHD demonstrates that sometimes the right thing to do is nothing at all.
